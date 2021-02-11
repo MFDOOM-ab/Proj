@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\goldDestroyer\goldDestroyer\bin\Release\goldDestroyer.exe.config
+C:\Users\Daniel\Desktop\goldDestroyer\goldDestroyer\bin\Release\goldDestroyer.exe
+C:\Users\Daniel\Desktop\goldDestroyer\goldDestroyer\bin\Release\goldDestroyer.pdb
+C:\Users\Daniel\Desktop\goldDestroyer\goldDestroyer\obj\Release\goldDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\goldDestroyer\goldDestroyer\obj\Release\goldDestroyer.exe
+C:\Users\Daniel\Desktop\goldDestroyer\goldDestroyer\obj\Release\goldDestroyer.pdb
+C:\Users\Daniel\Desktop\goldDestroyer\goldDestroyer\obj\Release\goldDestroyer.csprojAssemblyReference.cache
